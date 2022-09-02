@@ -25,3 +25,6 @@
 [submodule "image_oss2_project"]
 	path = image_oss2_project
 	url = git@github.com:nickdecodes/image_oss2_project.git
+[submodule "alien_invasion_project"]
+	path = alien_invasion_project
+	url = git@github.com:nickdecodes/alien_invasion_project.git
