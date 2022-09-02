@@ -28,3 +28,6 @@
 [submodule "alien_invasion_project"]
 	path = alien_invasion_project
 	url = git@github.com:nickdecodes/alien_invasion_project.git
+[submodule "data_visual_project"]
+	path = data_visual_project
+	url = git@github.com:nickdecodes/data_visual_project.git
