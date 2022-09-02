@@ -31,3 +31,6 @@
 [submodule "data_visual_project"]
 	path = data_visual_project
 	url = git@github.com:nickdecodes/data_visual_project.git
+[submodule "tensorflow_learning_project"]
+	path = tensorflow_learning_project
+	url = git@github.com:nickdecodes/tensorflow_learning_project.git
