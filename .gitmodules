@@ -1,0 +1,3 @@
+[submodule "beat_mouse_project"]
+	path = beat_mouse_project
+	url = git@github.com:nickdecodes/beat_mouse_project.git
