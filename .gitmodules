@@ -4,3 +4,6 @@
 [submodule "calculator_project"]
 	path = calculator_project
 	url = git@github.com:nickdecodes/calculator_project.git
+[submodule "student_manager_project"]
+	path = student_manager_project
+	url = git@github.com:nickdecodes/student_manager_project.git
