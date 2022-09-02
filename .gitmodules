@@ -34,3 +34,6 @@
 [submodule "tensorflow_learning_project"]
 	path = tensorflow_learning_project
 	url = git@github.com:nickdecodes/tensorflow_learning_project.git
+[submodule "hython_language_parser_project"]
+	path = hython_language_parser_project
+	url = git@github.com:nickdecodes/hython_language_parser_project.git
