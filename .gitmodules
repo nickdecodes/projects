@@ -10,3 +10,6 @@
 [submodule "test_framework_project"]
 	path = test_framework_project
 	url = git@github.com:nickdecodes/test_framework_project.git
+[submodule "chatroom_project"]
+	path = chatroom_project
+	url = git@github.com:nickdecodes/chatroom_project.git
