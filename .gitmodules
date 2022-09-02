@@ -46,3 +46,12 @@
 [submodule "distributed_cluster_detection_system_project"]
 	path = distributed_cluster_detection_system_project
 	url = git@github.com:nickdecodes/distributed_cluster_detection_system_project.git
+[submodule "web_manager_project"]
+	path = web_manager_project
+	url = git@github.com:nickdecodes/web_manager_project.git
+[submodule "rapid_json_project"]
+	path = rapid_json_project
+	url = git@github.com:nickdecodes/rapid_json_project.git
+[submodule "lib_curl_project"]
+	path = lib_curl_project
+	url = git@github.com:nickdecodes/lib_curl_project.git
