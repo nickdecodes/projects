@@ -13,3 +13,6 @@
 [submodule "chatroom_project"]
 	path = chatroom_project
 	url = git@github.com:nickdecodes/chatroom_project.git
+[submodule "lan_pihealth_project"]
+	path = lan_pihealth_project
+	url = git@github.com:nickdecodes/lan_pihealth_project.git
