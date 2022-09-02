@@ -19,3 +19,6 @@
 [submodule "my_calculator_project"]
 	path = my_calculator_project
 	url = git@github.com:nickdecodes/my_calculator_project.git
+[submodule "spider_run_project"]
+	path = spider_run_project
+	url = git@github.com:nickdecodes/spider_run_project.git
