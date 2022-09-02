@@ -22,3 +22,6 @@
 [submodule "spider_run_project"]
 	path = spider_run_project
 	url = git@github.com:nickdecodes/spider_run_project.git
+[submodule "image_oss2_project"]
+	path = image_oss2_project
+	url = git@github.com:nickdecodes/image_oss2_project.git
