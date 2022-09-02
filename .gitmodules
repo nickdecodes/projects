@@ -16,3 +16,6 @@
 [submodule "lan_pihealth_project"]
 	path = lan_pihealth_project
 	url = git@github.com:nickdecodes/lan_pihealth_project.git
+[submodule "my_calculator_project"]
+	path = my_calculator_project
+	url = git@github.com:nickdecodes/my_calculator_project.git
