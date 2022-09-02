@@ -7,3 +7,6 @@
 [submodule "student_manager_project"]
 	path = student_manager_project
 	url = git@github.com:nickdecodes/student_manager_project.git
+[submodule "test_framework_project"]
+	path = test_framework_project
+	url = git@github.com:nickdecodes/test_framework_project.git
