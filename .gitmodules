@@ -40,3 +40,6 @@
 [submodule "ivisitor_expression_project"]
 	path = ivisitor_expression_project
 	url = git@github.com:nickdecodes/ivisitor_expression_project.git
+[submodule "lisp_syntax_parser_project"]
+	path = lisp_syntax_parser_project
+	url = git@github.com:nickdecodes/lisp_syntax_parser_project.git
