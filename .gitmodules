@@ -37,3 +37,6 @@
 [submodule "hython_language_parser_project"]
 	path = hython_language_parser_project
 	url = git@github.com:nickdecodes/hython_language_parser_project.git
+[submodule "ivisitor_expression_project"]
+	path = ivisitor_expression_project
+	url = git@github.com:nickdecodes/ivisitor_expression_project.git
