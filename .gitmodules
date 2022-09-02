@@ -43,3 +43,6 @@
 [submodule "lisp_syntax_parser_project"]
 	path = lisp_syntax_parser_project
 	url = git@github.com:nickdecodes/lisp_syntax_parser_project.git
+[submodule "distributed_cluster_detection_system_project"]
+	path = distributed_cluster_detection_system_project
+	url = git@github.com:nickdecodes/distributed_cluster_detection_system_project.git
