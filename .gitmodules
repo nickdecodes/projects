@@ -55,3 +55,60 @@
 [submodule "lib_curl_project"]
 	path = lib_curl_project
 	url = git@github.com:nickdecodes/lib_curl_project.git
+[submodule "alien-invasion-project"]
+	path = alien-invasion-project
+	url = git@github.com:nickdecodes/alien-invasion-project.git
+[submodule "beat-mouse-project"]
+	path = beat-mouse-project
+	url = git@github.com:nickdecodes/beat-mouse-project.git
+[submodule "calculator-project"]
+	path = calculator-project
+	url = git@github.com:nickdecodes/calculator-project.git
+[submodule "chatroom-project"]
+	path = chatroom-project
+	url = git@github.com:nickdecodes/chatroom-project.git
+[submodule "data-visual-project"]
+	path = data-visual-project
+	url = git@github.com:nickdecodes/data-visual-project.git
+[submodule "distributed-cluster-detection-system-project"]
+	path = distributed-cluster-detection-system-project
+	url = git@github.com:nickdecodes/distributed-cluster-detection-system-project.git
+[submodule "hython-language-parser-project"]
+	path = hython-language-parser-project
+	url = git@github.com:nickdecodes/hython-language-parser-project.git
+[submodule "image-oss2-project"]
+	path = image-oss2-project
+	url = git@github.com:nickdecodes/image-oss2-project.git
+[submodule "ivisitor-expression-project"]
+	path = ivisitor-expression-project
+	url = git@github.com:nickdecodes/ivisitor-expression-project.git
+[submodule "lan-pihealth-project"]
+	path = lan-pihealth-project
+	url = git@github.com:nickdecodes/lan-pihealth-project.git
+[submodule "libcurl-project"]
+	path = libcurl-project
+	url = git@github.com:nickdecodes/libcurl-project.git
+[submodule "lisp-syntax-parser-project"]
+	path = lisp-syntax-parser-project
+	url = git@github.com:nickdecodes/lisp-syntax-parser-project.git
+[submodule "my-calculator-project"]
+	path = my-calculator-project
+	url = git@github.com:nickdecodes/my-calculator-project.git
+[submodule "rapid-json-project"]
+	path = rapid-json-project
+	url = git@github.com:nickdecodes/rapid-json-project.git
+[submodule "spider-run-project"]
+	path = spider-run-project
+	url = git@github.com:nickdecodes/spider-run-project.git
+[submodule "student-manager-project"]
+	path = student-manager-project
+	url = git@github.com:nickdecodes/student-manager-project.git
+[submodule "tensorflow-learning-project"]
+	path = tensorflow-learning-project
+	url = git@github.com:nickdecodes/tensorflow-learning-project.git
+[submodule "test-framework-project"]
+	path = test-framework-project
+	url = git@github.com:nickdecodes/test-framework-project.git
+[submodule "web-manager-project"]
+	path = web-manager-project
+	url = git@github.com:nickdecodes/web-manager-project.git
